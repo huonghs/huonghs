@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @huonghs
 - 👀 I’m interested in adtech/analytics/ML
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and R
 - 💞️ I’m looking to collaborate on analytics, ML project
 - 📫 How to reach me huongnguyen.hs239@gmail.com
 
