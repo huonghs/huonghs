@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @huonghs
+- 👋 Hi, this is Hanna!
 - 👀 I’m interested in adtech/analytics/ML
 - 🌱 I’m currently learning Python and R
 - 💞️ I’m looking to collaborate on analytics, ML project
